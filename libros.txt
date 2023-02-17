@@ -1,0 +1,1 @@
+isbn: 2, titulo: titulo2, genero: genero2, portada: portada2, sinopsis: sinopsis2, ejemplares: 2, prestamo: , fecha de préstamo: 2023-02-17 09:05:08.834044
